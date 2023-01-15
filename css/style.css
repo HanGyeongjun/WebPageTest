@@ -1,8 +1,17 @@
+
 body {
     font-family: sans-serif;
-    color: #333333;
-  }
-  
-  h1 {
     color: #0077c9;
-  }
+}
+
+h1 {
+    color: #0077c9;
+} 
+
+p {
+    color: #333333;
+}
+
+a {
+    color:coral;
+}
