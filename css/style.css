@@ -3,12 +3,12 @@
 @media (prefers-color-scheme: light) {
     body {
         font-family: Pretendard;
-        color: #0077c9;
+        color: #3366ff;
         background-color: #ffffff;
     }
     
     h1 {
-        color: #0077c9;
+        color: #3366ff;
     } 
     
     p {
@@ -16,19 +16,19 @@
     }
     
     a {
-        color:coral;
+        color:#3366ff;
     }
 }
 
 @media (prefers-color-scheme: dark) {
     body {
         font-family: Pretendard;
-        color: #0077c9;
+        color: #3366ff;
         background-color: #191919;
     }
     
     h1 {
-        color: #0077c9;
+        color: #3366ff;
     } 
     
     p {
@@ -36,6 +36,6 @@
     }
     
     a {
-        color:coral;
+        color:#3366ff;
     }
 }
